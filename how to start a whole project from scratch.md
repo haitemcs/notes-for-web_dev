@@ -1,4 +1,4 @@
-Install & create the project :
+# Install & create the project :
 cd notes-project
 python -m venv venv
 source venv/bin/activate          # Windows: venv\Scripts\activate

@@ -18,4 +18,4 @@ u can work before outwork everyone get good grades
 remove stress 
 and study more 
 so u preform better than anyone 
-thats it 
+thats it . 
