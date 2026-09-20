@@ -40,6 +40,10 @@ settings.AUTH_USER_MODEL → refers to whichever user model Django is configured
 
 
 
+
+
+
+
 models.py
    ↓
 makemigrations
