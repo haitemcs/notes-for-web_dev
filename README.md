@@ -30,6 +30,9 @@ My main backend learning area.
 - [Project From Scratch](02-django/project-from-scratch.md)
 - [Django AI Agent Notes](02-django/django-ai-agent-notes.md)
 
+#### Celery
+- [Celery Tutorial](02-django/celery/tutorial.md)
+
 ### 03 — Frontend
 
 Notes related to using React as the frontend for my Django APIs.
@@ -77,7 +80,7 @@ I add notes when I:
 
 Current direction:
 
-**Django → Django REST Framework → PostgreSQL → React → Docker → Backend Engineering → ML/AI integration**
+**Django → Django REST Framework → PostgreSQL → Celery → Redis → React → Docker → Backend Engineering → ML/AI integration**
 
 ## Related Projects
 
